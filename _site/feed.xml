@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rachit Jain</title>
-    <description>Rachit's site.</description>
+    <description>Rachit's blog</description>
     <link>http://localhost:4000//</link>
     <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 Oct 2016 13:22:44 +0530</pubDate>
-    <lastBuildDate>Sat, 29 Oct 2016 13:22:44 +0530</lastBuildDate>
+    <pubDate>Sat, 29 Oct 2016 19:24:12 +0530</pubDate>
+    <lastBuildDate>Sat, 29 Oct 2016 19:24:12 +0530</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -2460,7 +2460,7 @@ supervisorctl stop celery:celery-0
 &lt;/div&gt;
 
 &lt;p&gt;浏览器访问http://10.1.1.1:1222/ 还可以通过web对这些进程进行管理
-&lt;img src=&quot;/supervisord_celery/celery-web.jpg&quot; alt=&quot;celery&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://www.jack003.com/static/img/blog/supervisord_celery/celery-web.jpg&quot; alt=&quot;celery&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 04 Feb 2016 00:00:00 +0530</pubDate>
@@ -2600,7 +2600,7 @@ python manage.py runserver --settings=mysite.settings.local
 
 &lt;p&gt;这里我使用了test.py和product.py来区分两个不同的配置：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/django_settings/tree.jpg&quot; alt=&quot;tree&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/django_settings/tree.jpg&quot; alt=&quot;tree&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;先看__init__.py&lt;/p&gt;
 
@@ -2867,11 +2867,11 @@ Spark
 
 &lt;p&gt;ambari主页面如下：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/hadoop_ambari/ambari.png&quot; alt=&quot;amabri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/hadoop_ambari/ambari.png&quot; alt=&quot;amabri&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;hadoop的各项配置可以按照ambari给的参考配置设定，在web端即可实现hive接口查询数据：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/hadoop_ambari/hive-web.png&quot; alt=&quot;amabri&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/hadoop_ambari/hive-web.png&quot; alt=&quot;amabri&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;数据录入我们是通过MySQL的select into outfile到txt文件，然后在hive中load到hadoop中，中间遇到一些坑，是MySQL一些字段的换行符，这个问题查看一下我的上一篇文章，在hive创建数据库表中，text字段可以用string替代，*int(*)换成*int即可。&lt;/p&gt;
 
@@ -2961,31 +2961,31 @@ char(13):  回车符&lt;/p&gt;
 
 &lt;h4 id=&quot;section-1&quot;&gt;沙巴附近的海域&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Malaysia_Sabah/1.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/Malaysia_Sabah/1.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;海水变成绿色的，在香蕉船上拍的照片。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Malaysia_Sabah/2.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/Malaysia_Sabah/2.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;去红树林看猴子，远处的海滩。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Malaysia_Sabah/7.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/Malaysia_Sabah/7.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;在沙巴附近小岛的沙滩游泳拍照。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Malaysia_Sabah/3.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/Malaysia_Sabah/3.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;沙巴清真寺一游&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Malaysia_Sabah/6.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/Malaysia_Sabah/6.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;其实我也看不懂书的内容&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Malaysia_Sabah/5.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/Malaysia_Sabah/5.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;哈哈&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Malaysia_Sabah/4.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/Malaysia_Sabah/4.jpg&quot; alt=&quot;Sabah&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Oct 2015 00:00:00 +0530</pubDate>
         <link>http://localhost:4000//life/2015/10/04/sabah-travel.html</link>
@@ -3159,15 +3159,15 @@ JAVA_OPTS=&quot;-server -XX:PermSize=128M -XX:MaxPermSize=256m -Xms1g -Xmx1g -Xm
 
 &lt;p&gt;在设这个最大内存即Xmx值时请先打开一个命令行，键入如下的命令：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/tomcat-optimize/1.jpg&quot; alt=&quot;tomcat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/tomcat-optimize/1.jpg&quot; alt=&quot;tomcat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;看，能够正常显示JDK的版本信息，说明，这个值你能够用。不是说32位系统下最高能够使用2GB内存吗？即：2048m，我们不防来试试&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/tomcat-optimize/2.jpg&quot; alt=&quot;tomcat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/tomcat-optimize/2.jpg&quot; alt=&quot;tomcat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;可以吗？不可以！不要说2048m呢，我们小一点，试试1700m如何&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/tomcat-optimize/3.jpg&quot; alt=&quot;tomcat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/tomcat-optimize/3.jpg&quot; alt=&quot;tomcat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;嘿嘿，连1700m都不可以，更不要说2048m了呢，2048m只是一个理论数值，这样说吧我这边有几台机器，有的机器-Xmx1800都没问题，有的机器最高只能到-Xmx1500m。&lt;/p&gt;
 
@@ -3464,7 +3464,7 @@ compressableMimeType=&quot;text/html,text/xml,text/javascript,text/css,text/plai
 
 &lt;p&gt;在到达第二轮时，我们的性能已经提升了多少倍呢？我们来看一个loaderrunner的截图吧：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/tomcat-optimize/4.jpg&quot; alt=&quot;tomcat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/tomcat-optimize/4.jpg&quot; alt=&quot;tomcat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;左边第一列是第一轮没有经过任何调优的压力测试报告。&lt;/p&gt;
 
@@ -4315,7 +4315,7 @@ modprobe -l|grep ipvs     ##检查ipvs的模块
 
 &lt;h4 id=&quot;dr&quot;&gt;一、DR模式&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/lvs/dr.jpg&quot; alt=&quot;dr&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/lvs/dr.jpg&quot; alt=&quot;dr&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;堡垒机脚本：&lt;/p&gt;
 
@@ -4387,7 +4387,7 @@ modprobe -l|grep ipvs     ##检查ipvs的模块
 
 &lt;h4 id=&quot;tun&quot;&gt;二、TUN模式&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/lvs/tun.jpg&quot; alt=&quot;tun&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/lvs/tun.jpg&quot; alt=&quot;tun&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;堡垒机脚本：&lt;/p&gt;
 
@@ -4465,7 +4465,7 @@ modprobe -l|grep ipvs     ##检查ipvs的模块
 
 &lt;h4 id=&quot;nat&quot;&gt;三、NAT模式&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/lvs/nat.jpg&quot; alt=&quot;nat&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/lvs/nat.jpg&quot; alt=&quot;nat&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;堡垒机脚本：&lt;/p&gt;
 
@@ -4540,7 +4540,7 @@ modprobe -l|grep ipvs     ##检查ipvs的模块
 
 &lt;p&gt;附比较表格图:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/lvs/bijiao.jpg&quot; alt=&quot;bijiao&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/lvs/bijiao.jpg&quot; alt=&quot;bijiao&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 09 May 2015 00:00:00 +0530</pubDate>
@@ -4790,7 +4790,7 @@ RUN_AS_USER=root
 
 &lt;p&gt;二、如果想要把nginx也隐藏掉，需要编辑nginx源码中的src/core/nginx.h头文件nginx修改为Microsoft-IIS版本号改为7，修改后的截图如下&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/nginx/safe.jpg&quot; alt=&quot;safe&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/nginx/safe.jpg&quot; alt=&quot;safe&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 03 Mar 2015 00:00:00 +0530</pubDate>
@@ -4927,12 +4927,12 @@ RUN_AS_USER=root
 &lt;a href=&quot;http://www.pythonchallenge.com/pc/return/evil1.jpg&quot;&gt;http://www.pythonchallenge.com/pc/return/evil1.jpg&lt;/a&gt;是网页,
 &lt;a href=&quot;http://www.pythonchallenge.com/pc/return/evil2.jpg&quot;&gt;http://www.pythonchallenge.com/pc/return/evil2.jpg&lt;/a&gt;是下面的图片：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/python_challenge12/evil2.jpg&quot; alt=&quot;evil2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/python_challenge12/evil2.jpg&quot; alt=&quot;evil2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;打开网址：&lt;a href=&quot;http://www.pythonchallenge.com/pc/return/evil2.gfx&quot;&gt;http://www.pythonchallenge.com/pc/return/evil2.gfx&lt;/a&gt; 发现是一个二进制文档，还是没什么头绪
 继续打开&lt;a href=&quot;http://www.pythonchallenge.com/pc/return/evil3.jpg&quot;&gt;http://www.pythonchallenge.com/pc/return/evil3.jpg&lt;/a&gt; 是下面的图片：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/python_challenge12/evil3-1.jpg&quot; alt=&quot;evil3-1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/python_challenge12/evil3-1.jpg&quot; alt=&quot;evil3-1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;看样子是没有图片了，但是打开&lt;a href=&quot;http://www.pythonchallenge.com/pc/return/evil4.jpg&quot;&gt;http://www.pythonchallenge.com/pc/return/evil4.jpg&lt;/a&gt; 看到如下语句：&lt;strong&gt;Bert is evil! go back!&lt;/strong&gt;，在chrome浏览器是看不到的，我是在IE浏览器上看到。
 回想网页开始的图片，是在均分扑克牌，这应该就是解题的思路了，那么代码很简单了，如下：&lt;/p&gt;
@@ -4952,15 +4952,15 @@ RUN_AS_USER=root
 
 &lt;p&gt;得到如下图片：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/python_challenge12/0.jpg&quot; alt=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/python_challenge12/0.jpg&quot; alt=&quot;0&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/python_challenge12/1.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/python_challenge12/1.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/python_challenge12/2.gif&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/python_challenge12/2.gif&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/python_challenge12/3.png&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/python_challenge12/3.png&quot; alt=&quot;3&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/python_challenge12/4.jpg&quot; alt=&quot;4&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.jack003.com/static/img/blog/python_challenge12/4.jpg&quot; alt=&quot;4&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;最后一张图片的字母划掉了，所以答案是：&lt;strong&gt;disproportional&lt;/strong&gt;&lt;/p&gt;
 </description>
