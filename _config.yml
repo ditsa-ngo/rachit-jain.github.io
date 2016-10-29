@@ -9,13 +9,13 @@ url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
-  head_img: 'static/img/landing/Jack.jpg'
+  name: 'Rachit'
+  first_name: 'Rachit'
+  last_name: 'Jain'
+  email: 'rachitjain1993@gmail.com'
+  facebook_username: 'rachit.jain.10'
+  github_username: 'rachit-jain'
+  head_img: 'static/img/landing/pic.jpg'
   desc: 'I am a 21-year-old computer engineer from IIIT-Delhi. I also love to write poetry, tech blogs in my spare time. Moreover, I love numbers.'
 
 # sections
