@@ -1,17 +1,14 @@
 - name: Python
   percentage: 85
 
-- name: HTML/CSS
+- name: R
   percentage: 65
 
-- name: Linux/Shell
-  percentage: 75
+- name: MS-Excel
+  percentage: 60
 
-- name: jQuery
+- name: Java
   percentage: 80
 
-- name: AngularJS
-  percentage: 80
-
-- name: Ionic
-  percentage: 65
+- name: SQL
+  percentage: 60
